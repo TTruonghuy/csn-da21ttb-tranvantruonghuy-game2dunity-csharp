@@ -23,8 +23,8 @@
 - Unity Editor 2022.3.15f1
 
 ## Cách Sử Dụng
-- Tạo một dự án mới thêm các file trong các thư mục Assets,Package,ProjectSettings vào Thư mục tương ứng của dự án mới tạo.
-- File apk cài đặt trên giả lập Android hoặc thiết bị di động để trải nghiêm trò chơi.
+- Đối với các Thực mục Unity: Tạo một dự án mới thêm các file trong các thư mục Assets,Package,ProjectSettings vào Thư mục tương ứng của dự án mới tạo.
+- Đối với file apk: Cài đặt trên giả lập Android hoặc thiết bị di động để trải nghiêm trò chơi.
 
 ## Đóng Góp
 Nếu bạn muốn đóng góp vào dự án, vui lòng tạo một nhánh mới và gửi yêu cầu kéo (pull request).
