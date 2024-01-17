@@ -13,7 +13,7 @@
 ## Hướng Dẫn Cài Đặt
 1. Clone dự án từ Git:
     ```bash
-    git clone https://your-repository-url.git
+    git clone https://github.com/TTruonghuy/csn-da21ttb-tranvantruonghuy-game2dunity-csharp
     ```
 2. Mở Unity Hub và thêm dự án bằng cách chọn thư mục của dự án.
 3. Đảm bảo rằng Unity đã được cài đặt và cấu hình đúng phiên bản cần thiết.
